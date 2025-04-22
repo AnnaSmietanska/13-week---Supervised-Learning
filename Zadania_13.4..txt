@@ -1,0 +1,34 @@
+
+Najwięcej rowerów wypożycza się w miesiącach:
+Maj (5), Czerwiec (6), Lipiec (7), Sierpień (8), Wrzesień (9), często przekraczającą 3000
+Najmniej wypożyczeń : Styczeń (1), Luty (2), Grudzień (12)
+W zimowych miesiącach liczba wypożyczeń jest bardzo mała.
+Sezonowość pogody – ciepłe miesiące sprzyjają jeździe na rowerze.
+Wakacje i czas wolny – w lecie (lipiec–sierpień) więcej osób ma urlop, dzieci nie chodzą do szkoły.
+Dłuższe dni – latem dni są dłuższe, więc więcej osób wypożycza rowery także wieczorami.
+
+Najwięcej wypożyczeń jest w niedzielę i sobotę (6) — wykresy są najwyższe i szerokie.
+W środku tygodnia (np. 2, 3, 4) liczba wypożyczeń jest mniejsza.
+Ludzie częściej wypożyczają rowery w weekend, gdy mają wolne, czas na rekreację i wycieczki.
+W tygodniu część wypożyczeń może dotyczyć dojazdów do pracy/szkoły, ale jest ich mniej.
+
+workingday (czy to dzień roboczy)
+0 = nie (weekend lub święto), 1 = tak (dzień roboczy)
+Zarówno w dni robocze jak i wolne ludzie wypożyczają rowery, ale:
+W dni wolne (0) liczba wypożyczeń bywa większa i bardziej zróżnicowana.
+Rower wykorzystywany jest zarówno do rekreacji (weekendy), jak i do codziennych zadań (np. dojazd do pracy).
+Jednak weekendy mają więcej ekstremalnych wartości – być może przez dłuższe wycieczki rodzinne czy wypoczynek.
+
+holiday (czy to święto)
+0 = zwykły dzień, 1 = święto
+W zwykłe dni (0) wypożyczeń jest dużo więcej.
+W święta (1) wypożyczeń jest znacznie mniej.
+Święta to często czas spędzany w domu, z rodziną — niekoniecznie na rowerze.
+Niektóre święta mogą też przypadać na chłodniejsze miesiące, co również wpływa na niższe wypożyczenia.
+
+season (pory roku)
+1 = wiosna, 2 = lato, 3 = jesień, 4 = zima
+Najwięcej wypożyczeń: lato (2) i jesień (3)
+Najmniej: zima (4)
+Pogoda gra kluczową rolę: lato = ciepło, dłuższe dni, idealne na rower.
+Jesień jeszcze jest łagodna, ale w zimie mało kto wypożycza rower, ze względu na kiepskie warunki atmosferyczne.
